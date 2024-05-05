@@ -18,6 +18,4 @@ Content-Type: application/json
 
 ### Toggle completed status of a todo
 
-PUT http://localhost:{{port}}/api/todos/1
-
-
+PUT http://localhost:{{port}}/api/todos/662190e3309ee890fe551817
